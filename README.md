@@ -1,3 +1,3 @@
 # tareaGitDespliegueRepo
 
-ESTE ES EL SEGUNDO CAMBIO QUE HACEMOS EN EL REPOSITORIO (2o COMMIT)
+Texto de ejemplo para tarea 3 Git
